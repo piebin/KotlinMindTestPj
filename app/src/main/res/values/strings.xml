@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Kotlin_Mind_Test</string>
+    <string name="app_name">LoveTest</string>
+    <string name="main_title">당신의 사랑을 \n 찾아보아용</string>
+    <string name="question">꽃병에 예~쁜 꽃이 있습니당\n근데! 꽃이 시들어있지모에용\n그때! 당신은 그 꽃으로 무엇을\n 할건가용~?</string>
+
 </resources>
